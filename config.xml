@@ -26,8 +26,8 @@
 	  <!--para acceder a paginas de internet-->
 	  <allow-intent href="https://*/*"/>
 	  <acces origin="https://*/*"/>
-	  <allow-intent href="https://*/*"/>
-	  <acces origin="https://*/*"/>
+	  <allow-intent href="http://*/*"/>
+	  <acces origin="http://*/*"/>
 	  <plugin origin name="cordova-plugin-whitelist" source="npm">
 	  <!-- plugins-->
 	  <!-- core plugins-->
