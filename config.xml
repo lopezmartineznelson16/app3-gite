@@ -28,7 +28,7 @@
 	  <acces origin="https://*/*"/>
 	  <allow-intent href="http://*/*"/>
 	  <acces origin="http://*/*"/>
-	  <plugin origin name="cordova-plugin-whitelist" source="npm">
+	  <plugin name="cordova-plugin-whitelist" source="npm"/>
 	  <!-- plugins-->
 	  <!-- core plugins-->
 	  <plugin name="cordova-plugin-device" spec="~1.1.4"/>
